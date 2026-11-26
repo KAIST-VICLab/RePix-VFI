@@ -9,7 +9,7 @@
 <h2>RePix-VFI: Re-rendering Observed Pixels for Video Frame Interpolation with Generative Priors from One-Step Diffusion</h2>
 
 <div>
-    <a href='https://scholar.google.com/citations?user=Qh--APMAAAAJ' target='_blank'>Dayeon Kim</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href='https://dayna-k.github.io/' target='_blank'>Dayeon Kim</a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href='https://jeonghyeokdo.github.io/' target='_blank'>Jeonghyeok Do</a><sup>†</sup>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href='https://www.viclab.kaist.ac.kr/' target='_blank'>Munchurl Kim</a><sup>†</sup>
 </div>
